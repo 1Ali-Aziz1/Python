@@ -25,3 +25,4 @@ def find_num(times):
 
 num_pass = find_num(num_val)
 print(num_pass)
+quitText = input("Do you wanna quit?(y/n)")
